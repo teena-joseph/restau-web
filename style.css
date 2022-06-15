@@ -1,0 +1,112 @@
+body{
+    background-color:#b8860f;
+    
+}
+header{
+   
+    background-image: url("istockphoto-1031354828-612x612.jpg" );
+    
+    background-repeat:repeat;
+    background-size:contain;
+    width:100%;
+    height:600px;
+    align-content:center;
+}
+h1{
+    text-align: center;
+    font-style: italic;
+    font-family: "Cambria";
+    color:brown;
+}
+
+.HOME{
+    background-color: rgb(42, 46, 165);
+    color: rgb(247, 238, 238);
+    border: 2px solid;
+    padding: 4px;
+    font-size: larger;
+    font-weight: bolder;
+     
+}
+
+img{
+    width: 400px;
+    height: 400px;
+    
+    
+}
+.imgs{
+    overflow-x: auto;
+    display: flex;
+    width:100%;
+    height: 400px;
+    
+}
+.click{
+    border:2px none;
+    background-color:wheat;
+    padding: 4px;
+    font-size: larger;
+    font-weight: bolder;
+    color: brown;
+}
+
+button{
+    background-color: wheat;
+    color: brown;
+    border: 2px solid;
+    padding: 4px;
+    font-size: larger;
+    font-weight: bolder;
+
+}
+.foods{
+    display: flex;
+    background-color: rgb(165, 136, 42);
+    color: brown;
+    border: 2px solid burlywood;
+    padding: 4px;
+    width:100%;
+    height: 570px;
+}
+.ITA{  
+   
+    height: 500px;
+    border: 2px solid rgb(2, 202, 232);
+    padding: 2px;
+}
+.conti{
+      
+    height: 500px;
+    border: 2px solid rgb(2, 202, 232);
+    padding: 2px;
+
+}
+.cake{    
+    height: 500px;
+    border: 2px solid rgb(2, 202, 232);
+    padding: 2px;
+}
+.sect1{
+    background-color: blanchedalmond;
+    display: flex;
+    color: brown;
+    border: 2px solid burlywood;
+   
+    width:100%;
+    height: 300px;
+
+
+}
+.enq{
+    height: 200px;
+    width:50%;
+    
+    padding: 2px;
+}
+.cont{
+    height: 200px;
+    width:50%;
+    padding: 2px;
+}
+    
